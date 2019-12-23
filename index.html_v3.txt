@@ -1,0 +1,665 @@
+#_COMMENTS: What does "iframe," "script," and "class" mean or stand for in HTML?_
+
+
+
+<html>
+<body id="rebecca-atwood-designs" class="template-index">
+  <div class="header-wrapper offset-nav"> ==$0
+<div id="sticky-nav-sticky-wrapper" class="sticky-wrapper is-sticky" style=
+"height: 0px;"> == $0
+  <div id="sticky-nav" class="header_wrapper" style="width: 794px;
+  position: fixed; top: 0px;">
+    <header class="site-header showMobile raStick" role="banner">
+     <div class="wrapper nav-wrapper">
+       <div class="nav--desktop">
+         <div class="mobile-wrapper">
+           <div class="header-cart_wrapper hidden-lg">
+              <a href="/cart" class="CartToggle header-cart">
+		<i class="icon icon-ra_bag"></i>
+	      </a>
+              <span class="header-cart_bubble cartCount has-items
+              cartCount>-updater hidden-count">0</span>
+           </div>
+           <div class="logo-wrapper "
+             <h1 class="h4 header-logo" itemscope itemtype="http://
+             schema.org/Organization">
+	        <a href="/" itemprop="url">
+		 <i class="icon icon-ra_primary-logo">
+		   ::before
+    		 </i>
+		</a>
+	      </h1>
+	    </div>
+            <a href class="menuToggle header-hamburger"></a>
+          </div>
+          <div class="header-menu nav-wrapper"
+            <ul class="main-menu accessibleNav">
+              <li class="grandparent kids-4">...</li>
+               <a href="#" class="nav-link" id="Sho>p">Shop</a>
+               <a href="#" class="nav-carat">
+                <span class="plus">+</span>
+                <span class="minus">-</span>
+              </a>
+              <div class="main-menu-dropdown">
+                <ul class="main-menu-dropdown--list">
+                  <li aria-haspopup="true">
+                    <ul class="collection-nav--child">
+                      <li class="collection-nav--child-link">
+                        <h5>
+                          <a href="/collections/all">All Collections</a>
+                        </h5>
+                      </li>
+                      <li class ="collection-nav--child-link"
+                        <h5>
+                          <a href="/collections/new-arrivals">New arrivals
+                          </a>
+                        </h5>
+                      </li>
+                      <li class="collection-nav--child-link">
+                        <h5>
+                          <a href="/collections/bedding">Bedding</a>
+                        </h5>
+                        <ul class="collection-nav-->
+                          <a href="/collections/duvets">Duvets</a>
+                        </li>
+                        <li class="collection-nav--grandchild-link">
+                          <a href="/collections/quilts">Coverlets+quilts
+                          </a>
+                        </li>
+                        <li class="collection-nav--grandchild-link">
+                          <a href="/collections/pillowcases">pillowcases
+                          </a>
+                        </li>
+                      </ul>
+                  </li>
+                </ul>
+              </li>
+              <li aria-haspopup="true">
+                <ul class="collection-nav--child">
+                  <li class="collection-nav--child-link">
+                    <h5>
+                      <a href="/collections/fabric-by-the-yard">fabric
+                      </a>
+                    </h5>
+                    <ul class="collection-nav--grandchild">
+                      <li class="collection-nav--grandchild-link">
+                        <a href="/collections/fabric-by-the-yard/
+                        Printed">Printed</a>
+                      </li>
+                      <li class="collection-nav--grandchild-link">
+                        <a href="/collections/fabric-by-the-yard/Woven">
+                        Woven</a>
+                      </li>
+                      <li class="collection-nav--grandchild-link">
+                        <a href="/collections/embroidered-fabrics">
+                        Embroidered</a>
+                      </li>
+                      <li class="collection-nav--grandchild-link">
+                        <a href="/products/custom-fabric-by-the-yard">
+                        Custom</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="collection-nav--child-link">
+                    <h5>
+                      <a href="/collections/swatch-sets">Swatch Sets</a>
+                    </h5>
+                  </li>
+                </ul>
+              </li>
+              <li aria-haspopup="true">
+                <ul class="collection-nav--child">
+                  <li class="collection-nav--child-link">
+                    <h5>
+                      <a href="/collections/wallpapers">Wallpaper</a>
+                    </h5>
+                    <ul class="collection-nav--grandchild">
+                      <li class="collection-nav--grandchild-link">
+                        <a href="/collections/wallpapers">Digitally
+                        Printed</a>
+                      </li>
+                      <li class="collection-nav--grandchild-link">
+                        <a href="/products/customo-wallpaper">Custom</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="collection-nav--child-link"> == $0
+                    <h5>
+                      <a href="/collections/accessories-gift">
+                      Accessories + Gifts </a>
+                    </h5>
+                    <ul class="collection-nav--grandchild">
+                      <li class="collection-nav--grandchild-link">
+                        <a href="/collections/books">Books</a>
+                      </li>
+                      <li class="collection-nav--grandchild-link">
+                        <a href="/collections/zip-pouches">Zip pouches
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+                <li aria-haspopup="true">
+                  <ul class="collection-nav--child">
+                    <li class="collection-nav--child-link">
+                      <h5>
+                        <a href="/collections/pillows">Pillows</a>
+                      </h5>
+                      <ul class="collections-nav--grandchild">
+                        <li class="collection-nav--grandchild-link">
+                          <a href="/collections/pillows/Printed">Printed
+                          </a>
+                        </li>
+                        <li class="collection-nav--grandchild-link">
+                          <a href="/collections/pillows/Woven">Woven</a>
+                        </li>
+                        <li class="collection-nav--grandchild-link">
+                          <a href="/product/custom-pillow">Custom</a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="collection-nav--child-link">
+                      <h5>
+                        <a href="/collections/sale/sale">Sale</a>
+                      </h5>
+                      <ul class="collection-nav--grandchild">
+                        <li class="collection-nav--grandchild-link">
+                          <a href="/collections/pillows/sale">Pillows</a>
+                        </li>
+                        <li class="collection-nav--grandchild-link">
+                          <a href="/collections/bedding/sale">Bedding</a>
+                        </li>
+                        <li class="collection-nav--grandchild-link">
+                          <a href="/collections/fabric-by-the-yard/sale">
+                          Fabric by the Yard</a>
+                        </li>
+                        <li class="collection-nav--grandchild-link"> ==$0
+                          <a href="/collections/screen-printed-wallpaper/
+                          sale">Wallpaper</a>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="child kids-0">
+            <a href="/pages/about-us" class="nav-link" id="About">About
+            </a>
+          </li>
+          <li class="child kids-0">
+            <a href="/pages/process" class="nav-link" id="Process">
+            Process</a>
+          </li>
+          <li class="child kids-0">
+            <a href="/blogs/from-the-studio" class="nav-link" id="Blog">
+            Blog</a>
+          </li>
+          <li class="child kids-0"> ==$0
+            <a href="/pages/visit-us" class="nav-link" id="Showroom">
+            Showroom</a>
+          </li>
+          <li class="child kids-0">
+            <a href="/pages/contact" class="nav-link" id="Contact">
+            Contact</a>
+            </li>
+            <li class="cart-text-link">
+              <a href="/cart" class="CartToggle"
+                "
+                        Bag
+                        "
+                <span class=" hidden-count " id="nav-cartCountDesktop">(0)
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="nav--mobile" style>
+        <div class="mobile-wrapper">
+          <div class="header-cart__wrapper hidden-lg">
+            <a href="/cart" class="CartToggle header-cart">
+              <i class="icon icon-ra_bag"></i>
+            </a>
+            <span class="header-CartToggle_bubble cartCount has-items
+            cartCount-updater hidden-count">0</span>
+          </div>
+          <div class="logo-wrapper ">
+            <h1 class="h4 header-logo" itemscope itemtype="http://
+            schema.org/Organization">
+              <a href="/" itemprop="url">
+                <i class="icon icon-ra_primary-logo">
+                  ::before
+                </i>
+              </a>
+            </h1>
+          </div> 
+          <a href class="menuToggle header-hamburger"></a>
+          ::after
+        </div>
+        <div class="header-menu nav-wrapper">"
+          <ul class="main-menu accessibleNav">
+            <li class="grandparent kids-4">
+              <a href="#" class="nav-link" id="Shop">Shop</a>
+              <a href="#" class="nav-carat">
+                <span class="plus">+</span>
+                <span class="minus">-</span>
+              </a>
+              <div class="main-menu-dropdown">
+                <ul class="main-menu-dropdown--list">
+                  <li aria-haspopup="true">
+                    <ul class="collection-nav--child">
+                      <li class="collection-nav--child-link">...</li>
+                      <li class="collection-nav--child-link">...</li>
+                      <li class="collection-nav--child-link>...</li>
+                    </ul>
+                  </li>
+                  <li aria-haspopup="true">
+                    <ul class="collection-nav--child">
+                      <li class="collection-nav--child-link">
+                        <h5>
+                          <a href="/collections/fabric-by-the-yard">fabric
+                          </a>
+                        </h5>
+                        <ul class="collection-nav--grandchild">
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/collections/fabric-by-the-yard/
+                            Printed">Printed</a>
+                          </li>
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/collections/fabric-by-the-yeard/Woven">
+                            Woven</a>
+                          </li>
+                          <li class="collecton-nav--grandchild-link">
+                            <a href="/collections/embroidered-fabrics">
+                            Embroidered</a>
+                          </li>
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/products/custom-fabric-by-the-yard">
+                            Custom</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class="collection-nav--child-link"> ==$0
+                        <h5>
+                          <a href="/collections/swatch-sets">Swatch Sets</a>
+                        </h5>
+                      </li>
+                    </ul>
+                  </li>
+                  <li aria-haspopup="true"
+                    <ul class="collection-nav--child">
+                      <li class="collection-nav--child-link">
+                        <h5>
+                          <a href="/collections/wallpapers">Wallpaper</a>
+                        </h5>
+                        <ul class="collection-nav--grandchild">
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/collections/wallpapers">Digitally
+                            Printed</a>
+                          </li>
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/products/custom-wallpaper">Custom</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class="collection-nav--child-link">
+                        <h5>
+                          <a href="/collections/accessories-gift">
+                          Accessories + Gifts</a>
+                        </h5>
+                        <ul class="collection-nav--grandchild">
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/collections/books">Books</a>
+                          </li>
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/collections/zip-pouches">Zip pouches
+                            </a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li aria-haspopup="true">
+                    <ul class="collection-nav--child">
+                      <li class="collection-nav--child-link">
+                        <h5>>
+                        <ul class="collection-nav--grandchild"
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/collections/pillows/printed">printed
+                            </a>
+                          </li>
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/collections/pillows/Woven">Woven</a>
+                          </li>
+                          <li class="collections-nav--grandchild-link">
+                            <a href="/collections/embroidered-pillows/Hand-
+                            Embroidered">Embroidered</a>
+                          </li>
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/products/custom-pillow">Custom</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class="collection-nav--child-link">
+                        <h5>
+                          <a href="/collections/sale/sale">Sale</a>
+                        </h5>
+                        <ul class="collection-nav--grandchild">
+                          <li class="collection-nav--grandchild-link">
+                            <a href="/collections/pillows/sale">Pillows</a>
+                            </li>
+                            <li class="collection-nav--grandchild-link">
+                              <a href="/collections/bedding/sale">Bedding</a>
+                            </li>
+                            <li class="collection-nav--grandchild-link">
+                              <a href="/collections/fabric-by-the-yard/sale">
+                              Fabric by the Yard </a>
+                            </li>
+                            <li class="collection-nav--grandchild-link">
+                              <a href="/collections/screen-printed-wallpaper/
+                              sale">Wallpaper</a>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="child kids-0">
+                <a href="/pages/about-us" class="nav-link" id="About">about
+                </a>
+              </li>
+              <li class="child kids-0">
+                <a href="/pages/process" class="nav-link" id="Process">
+                Process</a>
+              </li>
+              <li class="child kids-0"
+                <a href="/blogs/from-the-studio" class="nav-link" id="Blog">
+                Blog</a>
+              </li>
+              <li class="child kids-0"
+                <a href="/pages/book" class="nav-link" id="Books">Books</a>
+              </li>
+              <li class="child kids-0">
+                <a href="/pages/visit-us" class="nav-link" id="Showroom">
+                Showroom</a>
+              </li>
+              <li class="child kids-0">
+                <a href="/pages/contact" class="nav-link" id="Contact">
+                Contact</a>
+              </li>
+              <li class="cart-text-link">
+                <a href="/cart" class="CartToggle">
+                  "
+                          Bag
+                          "
+                  <span class=" hidden-count " id="nav-cartCountDeskotp">(0)
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="ajaxCart-fullContainter hidden wrapper">
+          <div class="ajaxCart" id="download-modal" style="right: 0px; top:
+          0px; left: 0px;"></div>
+        </div>
+        ::after
+      </div>
+    </header>
+  </div>
+</div>
+<!-- <div id="phantom"></div> -->
+<main class="main-content" role="main">
+  <!-- Interactive Images -->
+  <div id="picture" class="interactive-picture homepage-hero image" style=
+  "background-image: url ('//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/
+  homepage_interactive_image.jpg?2560');">
+      ::before
+      <!-- Interactive Pins -->
+    <div class="interactive-pin" id="ip1">
+      <a href="https://rebeccaatwood.com/collections/wallpapers/products/
+      petals-wallpaper-in-sage" class="picture-target" target="_self">...</a>
+    </div>
+    <div class="interactive-pin" id="ip2" sytle="z-index: 1;">
+      <a href="https://rebeccaatwood.com/collections/fabric-by-the-yard/
+      products/ombre-stripe-fabric-in-dennis-green" class="picture-target"
+      target="_self">...</a>
+    </div>
+    <div class="interactive-pin" id="ip3" style="z-index: 1;">
+      <a href="https://rebeccaatwood.com/collections/fabric-by-the-yeard/
+      products/leaves-marine" class="picture-target" target="_self">...</a>
+    </div>
+    <div class="interactive-pin" id="ip4" style="z-index: 1;">
+      <a href="https://rebeccaatwood.com/collections/fabric-by-the-yard/
+      products/textured-geo-fabric-in-taupe-gray" class="picture-target"
+      target="_self">...</a>
+    </div>
+    <!-- Pin CTA -->
+  <div class="picture-cta-container">
+    <div class="picture-cta ip1 pin-right">
+      <div class="cta-frame">...</div>
+    </div>
+    <div class="picture-cta ip5 pin-left">
+      <div class="cta-frame">...</div>
+    </div>
+    <div class="picture-cta ip2 pin-left pin-bottom" style="width: 250px;
+    opacity: 1;">
+      <div class="cta-frame">...</div>
+    </div>
+    <div class="picture-cta ip3 pin-left pin-top" style="width: 0px;
+    opacity: 1;">
+      <div class="cta-frame>...</div>
+    </div>
+    <div class="picture-cta ip4 pin-left pin-center" style="width: 250px;
+    opacity: 1;"
+      <div class="cta-frame">...</div>
+    </div>
+  </div>
+  <div class="half-half-block">
+    <div class="wrapper">
+      <div class="grid">...</div>
+      ::after
+    </div>
+  </div>
+  <div class="one-third-block">
+    <div class="wrapper">
+      <div class="grid ">...</div>
+      ::after
+    </div>
+  </div>
+  <div class="homepage-custom">
+    <div class="homepage-custom_parallax">
+      ::before
+      <div class="text-center">...</div>
+      ::after
+    </div>
+  </div>
+  <script>
+      jQuery(function($) {
+        setTimeout( function() {
+          $(".homepage-custom_parallax").removeClass("delayed")
+        }, 2000 );
+      });
+  </script>
+  <div class="homepage-collection homepage--ra">
+    <div class="wrapper">
+      <div class="custom-selection-header">
+        <h1 class="section-title">Featured Favorites</h1>
+        <h4 class="section-subtitle">Our recent top sellers </h4>
+      </div>
+      <div class="grid-uniform small-hide">
+        <div class="grid__item small--one-whole medium--one-third large--
+        one-third product-grid-item relatedProduct" id="product-1">
+          <a class="product-image-tile" href="/collections/featured/
+          products/geo-wave-coverlet-in-navy">...</a>
+          <div class="figcaption hover">...</div>
+        </div>
+        <div class="grid_item small--one-whole medium--one-third large--
+        one-third product-grid-item relatedProduct" id="product-2">
+          <a class="product-image-tile" href="/collections/featured/
+          products/gridded-ikat-pillow-in-pale-blush">...</a>
+          <div class="figcaption hover">...</div>
+        </div>
+        <div class="grid__item small--one-whole medium--one-third large--
+        one-third product-grid-item relatedProduct" id="product-3">
+          <a class="product-image-tile" href="/collections/featured/
+          products/shell-duvet">...</a>
+          <div class="figcaption hover">...</div>
+        </div>
+        ::after
+      </div>
+      <div class="collection-carousel large--hide medium--hide slick-
+      initialized slick-slider" sytle>...</div>
+        ::after
+      </div>
+    </div>
+    <script>
+        jQuery(function($) {
+          $('.collection-carousel').slick({
+            infinite: true,
+            slidesToShow: 3,
+            SlidesToScroll: 3,
+            responsive: [
+              {
+                breakpoint: 480,
+                settings: {
+                  slidesToShow: 1,
+                  SlidesToScroll: 1
+                }
+              }
+            ]
+          });
+        });
+     <script>
+     <div class="custom-section">
+      <div class="wrapper">
+        <div class="custom-section-header">
+          <h1 class="section-title">As Seen In </h1>
+          <h4 class="section-subtitle">We've received some love fromthese
+          fine folks</h4>
+        </div>
+        <div class="simple-carousel slick-initialized slick-slider">
+          <button type="button" class="slick-prev slick-arrow" sytle="z-index:
+          1; display: block;">Previous</button>
+          <div aria-live="polite" class="slick-list draggable" style="height:
+          330px;">...</div>
+          <button type="button" class="slick-next slick-arrow" style="display:
+          block;">next</button>
+        </div>
+        ::after
+      </div>
+    </div>
+    <script>
+        jQuery(function($) {
+          $('.simple-carousel').slick({
+            dots: false,
+            adaptiveHeight: true,
+            autoplay: true,
+            easing: 'ease-in-out',
+            prevArrow: '<button type="button" class="slick-prev" style="z-
+      index:1;">Previous</button>',
+            nextArrow: '<button type="button" class="slick-
+      next">next</button>'
+          });
+        });
+    </script>
+  <div class="custom-section get-closer-up">
+    <div class="cart_wrapper">
+      <div class="custom-section-header">...</div>
+      <div class="featured-logo-container">...</div>
+      ::after
+    </div>
+  </div>
+  <div class="u-solid">...</div>
+    <div class="wrapper">
+      <div class="custom-section back-2-back-section">...</div>
+      ::after
+    </div>
+  </div>
+  <script>
+      jQuery(function($) {
+        $('.process-carousel').slick({
+          dots: true,
+          adaptiveHeight: true,
+          autoplay: true,
+          atuoplaySpeed: 5000,
+          customPaging : function(slider, i) {
+            return '<div class="story-step step' + (i+1) +'">' + (i + 1) +
+    '</div>';
+          }
+        });
+      $('.step1').after("<span>EXPERIMENTING</span>");
+      $('.step2').after("<span>CREATION</span>");
+      $('.step3').after("<span>SAMPLING</span>");
+    });
+</script>
+  <div class="custom-section back-2-back-section custom-top-blog">
+    <div class="wrapper">
+      <div class="custom-section-header">...</div>
+      <div class="grid grid-full">...</div>
+      :after
+    </div>
+  </div>
+</main>
+<footer class="site-footer-wrapper" role="contentinfo"> ==$0
+  <div class="footer-banner" style="background-image: url(//
+ cdn.shopify.com/s/files/1/1303/5951/t/37/assets/newsletter_img_url.jpg?
+ 2560)">...</div>
+  <div class="clear"></div>
+  <div class="homepage-instagram grid homepage--white">...</div>
+  <script>...</script>
+  <div class="wrapper">...</div>
+</footer>
+<script src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/
+fastclick.min.js?2560" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1303/5951/t/37/assets/custom.js?
+2560" type="text/javascript"></script>
+<script>
+  jQuery(funciton($) {
+    $("#sticky-nav").sticky({topSpacing:0});
+  });
+  </script>
+  <script>
+
+
+    </script>
+  <script>try{Typekit.load({ async: true});}catch(e){}</script>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/
+  slick.min.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/
+  jquery.sticky/1.0.3/jquery.sticky.min.js"></script>
+  <div class="sweettooth-init" data-channel-api-key data-external-customer-id
+  data-customer-auth-digest></div>
+  <div class="sweettooth-tab"></div>
+  <div class="modal-bg"></div>
+  <script>...</script>
+  <div class="smile-shopify-init" data-channel-key=
+  "pk-gsvdMTp5oCS9hPG7UvZn2Ggr"></div>
+  <div> == $0
+    <div id="smile-ui-container" style="position: fixted; width: 0px; height:
+    0px; bottom: 0px; right: 0px; z-index: 2147483647;">
+       <div></div>
+      </div>
+    </div>
+  <iframe id="tidio-chat-code" title="Tidio Chat code" style="display: none;
+  ">
+    #document
+      <html>
+        <head></head>
+        <body>...</body>
+      </html>
+    </iframe>
+  <div id="tidio-chat"></div>
+  <iframe id="lo-cs-frame" src="about:blank" aria-hidden="true" title="Lucky
+  Orange" style="display : none !important;">
+     #document
+      <html>...</html>
+    </iframe>
+  </body>
+</html>
+
+
